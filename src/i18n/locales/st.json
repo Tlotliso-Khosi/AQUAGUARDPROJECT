@@ -1,0 +1,52 @@
+{
+  "header": {
+    "search": "Batla",
+    "account": "Akhaonto",
+    "logout": "Tsoa"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "fieldManagement": "Lits'imo",
+    "weather": "Boemo ba leholimo",
+    "dataManagement": "Tsamaiso ya Data",
+    "reports": "Liphetho",
+    "community": "Sechaba",
+    "market": "Merekisi",
+    "map": "Mapo",
+    "logout": "Tsoa"
+  },
+  "community": {
+    "title": "Sechaba",
+    "createNew": "Bopa Se ncha",
+    "tabs": {
+      "forums": "Liforamo",
+      "groups": "Mekhoa"
+    },
+    "search": {
+      "forums": "Batla liforamo...",
+      "groups": "Batla mekhoa..."
+    },
+    "filter": "Sefa",
+    "forum": {
+      "postedBy": "E ngotsoeng ke {{name}}",
+      "likes": "{{count}} tse ratang",
+      "comments": "{{count}} maikutlo",
+      "report": "Tlaleha",
+      "share": "Arolelana"
+    },
+    "group": {
+      "members": "{{count}} maloko",
+      "joinGroup": "Kena Mekhoeng"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "soilMoisture": "Boemo ba leholimo",
+    "soilTemperature": "Boemo ba leholimo",
+    "airTemperature": "Boemo ba leholimo",
+    "airHumidity": "Boemo ba leholimo",
+    "rainfall": "Boemo ba leholimo",
+    "windSpeed": "Boemo ba leholimo",
+    "windDirection": "Boemo ba leholimo"
+  }
+} 

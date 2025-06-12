@@ -1,0 +1,7 @@
+# AquaguardAI robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://aquaguardai.com/sitemap.xml
+

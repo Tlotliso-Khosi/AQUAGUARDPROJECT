@@ -1,0 +1,42 @@
+{
+  "header": {
+    "search": "Search",
+    "account": "Account",
+    "logout": "Logout"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "fieldManagement": "Field Management",
+    "weather": "Weather",
+    "dataManagement": "Data Management",
+    "reports": "Reports",
+    "community": "Community",
+    "market": "Market",
+    "map": "Map",
+    "logout": "Logout"
+  },
+  "community": {
+    "title": "Community",
+    "createNew": "Create New",
+    "tabs": {
+      "forums": "Forums",
+      "groups": "Groups"
+    },
+    "search": {
+      "forums": "Search forums...",
+      "groups": "Search groups..."
+    },
+    "filter": "Filter",
+    "forum": {
+      "postedBy": "Posted by {{name}}",
+      "likes": "{{count}} likes",
+      "comments": "{{count}} comments",
+      "report": "Report",
+      "share": "Share"
+    },
+    "group": {
+      "members": "{{count}} members",
+      "joinGroup": "Join Group"
+    }
+  }
+} 
